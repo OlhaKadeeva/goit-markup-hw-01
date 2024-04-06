@@ -1,1 +1,1 @@
-This is my project
+This is first homework for GoIt fullstack course
